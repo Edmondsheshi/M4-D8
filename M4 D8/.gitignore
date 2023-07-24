@@ -1,0 +1,5 @@
+node_modules/
+
+.vscode/
+
+heroku config:add \ HEROKU_OAUTH_ID=26bda7a0-1cc3-4eca-8612-778f506046f5 \ HEROKU_OAUTH_SECRET=ebee0ca7-f2ff-4e70-ab2e-56e1e77006bf
